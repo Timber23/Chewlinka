@@ -1,0 +1,7 @@
+{
+  "name": "ChewLinka",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
